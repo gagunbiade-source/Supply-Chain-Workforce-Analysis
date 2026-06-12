@@ -1,5 +1,19 @@
 # Supply Chain Workforce & Labor Efficiency Analysis
-## 📊 Project : High-Volume Operational SQL Analysis
+## 📁 Project : Predictive Workforce Retention & Risk Analysis (Python)
+
+### Business Problem
+High employee turnover in supply chain logistics causes severe delivery delays and spikes onboarding costs. This project builds a predictive profile to identify "flight-risk" employees before they resign.
+
+### Key Visualization
+![Retention Heatmap](churn_heatmap.png)
+
+### Data Insights & AI Integration
+* **The Threshold:** Employees logging more than 35 hours of overtime per month with an engagement score below 5 are 4x more likely to churn.
+* **Predictive Value:** Developed a risk-scoring system in Python that flags high-risk schedules, allowing team leads to intervene before burnout occurs.
+
+### Tech Stack Used
+* **Python** (Pandas for data manipulation, Seaborn & Matplotlib for risk-matrix visualizations).
+* **AI Enablement:** Leveraged AI code-interpretation to optimize data framing and feature profiling.## 📊 Project : High-Volume Operational SQL Analysis
 
 ### Business Challenge
 Scaling fulfillment logistics safely requires tracking financial burn alongside workforce scheduling output. Using relational mock schemas, this script aggregates labor inputs against fulfillment pipeline friction points.
